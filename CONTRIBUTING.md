@@ -1,23 +1,13 @@
 # How to contribute
 
-- [Getting help](#getting-help-)
 - [Submitting bug reports](#submitting-bug-reports-)
 - [Contributing code](#contributing-code-)
-
-## Getting help [^](#how-to-contribute)
-
-Community discussion, questions, and informal bug reporting is done on the
-[CodeMirror Google group](http://groups.google.com/group/codemirror).
 
 ## Submitting bug reports [^](#how-to-contribute)
 
 The preferred way to report bugs is to use the
 [GitHub issue tracker](http://github.com/marijnh/CodeMirror/issues). Before
 reporting a bug, read these pointers.
-
-**Note:** The issue tracker is for *bugs*, not requests for help. Questions
-should be asked on the
-[CodeMirror Google group](http://groups.google.com/group/codemirror) instead.
 
 ### Reporting bugs effectively
 
@@ -48,7 +38,7 @@ should be asked on the
 ## Contributing code [^](#how-to-contribute)
 
 - Make sure you have a [GitHub Account](https://github.com/signup/free)
-- Fork [CodeMirror](https://github.com/marijnh/CodeMirror/)
+- Fork [CodeMirror](https://github.com/Klokka/CodeMirror/)
   ([how to fork a repo](https://help.github.com/articles/fork-a-repo))
 - Make your changes
 - If your changes are easy to test or likely to regress, add tests.
